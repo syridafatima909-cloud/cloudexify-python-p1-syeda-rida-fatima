@@ -1,0 +1,4 @@
+1,Lunch,300.0,Food
+2,Bus Fair,100.0,Transport
+4,Electricity Bill,2500.0,Bills
+5,Coffee,200.0,Food
